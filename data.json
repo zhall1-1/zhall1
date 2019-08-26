@@ -1,0 +1,12 @@
+{
+	"username":"zhall1-1",
+	"goals": [{
+		"goal" : "To get a 3.0 GPA this semester.",
+		"confidence" : 6
+		},
+		{
+		"goal" : "Do a good job at my job this semester.",
+		"confidence" : 8
+		}
+	]
+}
